@@ -1,30 +1,7 @@
-# Core Deep Learning Framework
-tensorflow==2.15.0
-keras==2.15.0
-
-# Machine Learning Utilities
-scikit-learn==1.4.0
-
-# Data Processing
-pandas==2.2.0
-numpy==1.26.3
-
-# Visualization
-matplotlib==3.8.2
-seaborn==0.13.1
-
-# File and System Utilities
-os-sys==2.1.4
-pickle-mixin==1.0.2
-pathlib==1.0.1
-glob2==0.7
-
-# Additional Tools
-json5==0.9.14
-itertools==0.10.1
-gc-python-utils==1.0.1
-random2==1.0.1
-
-# Optional (for visualization and reporting)
+pandas==2.2.3
+tensorflow==2.17.0
+matplotlib==3.9.2
+scikit-learn==1.5.2
+pyarrow==17.0.0
 graphviz==0.20.3
 pydot==1.4.2
